@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project is made with the following Youtube Crash React Course: [Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=1746s)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
